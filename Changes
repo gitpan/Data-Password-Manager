@@ -1,0 +1,6 @@
+Revision history for Perl extension Data::Password::Manager
+
+0.01  Sun Jan  1 16:11:00 PST 2006
+	initial release
+
+	adapteded from Mail::SpamCannibal::Password v0.02

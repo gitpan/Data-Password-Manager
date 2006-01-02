@@ -1,0 +1,8 @@
+MANIFEST
+README
+Makefile.PL
+Manager.pm
+Changes
+GPL
+t/password.t
+t/pw_get.t
