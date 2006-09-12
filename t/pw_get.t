@@ -40,7 +40,7 @@ foreach my $dir (qw(tmp)) {
 }
  
 my $dir = './tmp';
-mkdir $dir;
+mkdir $dir,0755;
 
 my $passfile = $dir .'/password.tst';
 

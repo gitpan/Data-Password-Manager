@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Password::Manager
 
+0.02  Mon Sep 11 16:25:54 PDT 2006
+	update tests for backwards compatability with perl 5.0503
+
 0.01  Sun Jan  1 16:11:00 PST 2006
 	initial release
 

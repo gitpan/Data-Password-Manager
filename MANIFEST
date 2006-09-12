@@ -6,3 +6,4 @@ Changes
 GPL
 t/password.t
 t/pw_get.t
+META.yml                                 Module meta-data (added by MakeMaker)
