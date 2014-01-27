@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Password::Manager
 
+0.03  Mon Jan 27 11:59:58 PST 2014
+        modify Makefile.PL to bypass missing 'pod2text'
+
 0.02  Mon Sep 11 16:25:54 PDT 2006
 	update tests for backwards compatability with perl 5.0503
 
