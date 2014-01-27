@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Password::Manager
 
+0.05   Mon Jan 27 13:05:20 PST 2014
+	correct second typo in Makefile.pm
+
 0.04   Mon Jan 27 12:47:58 PST 2014
         correct typo in Makefile.pm
 
