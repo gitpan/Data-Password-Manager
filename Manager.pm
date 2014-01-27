@@ -6,7 +6,7 @@ use strict;
 use vars qw($VERSION @ISA @EXPORT_OK @to64);
 require Exporter;
 @ISA = qw(Exporter);
-$VERSION = do { my @r = (q$Revision: 0.03 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
+$VERSION = do { my @r = (q$Revision: 0.04 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
 
 @EXPORT_OK = qw(
 	pw_gen
@@ -443,7 +443,7 @@ library source code for this function to operate.
 
 =head1 COPYRIGHT
 
-Copyright 2003 - 2006, Michael Robinton <michael@bizsystems.com>
+Copyright 2003 - 2014, Michael Robinton <michael@bizsystems.com>
 
 The non-(Julianne Haugh) portion of the program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
